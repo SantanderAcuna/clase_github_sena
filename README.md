@@ -25,7 +25,7 @@ El curso de Análisis y Desarrollo de Software está orientado a formar profesio
 | **Código del curso** | `3336147`                        |
 | **Identificador**    | `P_228118_V_3336147_R_17_C_9306` |
 | **Institución**      | Servicio Nacional de Aprendizaje (SENA) |
-| **Modalidad**        | Virtual / Presencial              |
+| **Modalidad**        | Virtual                          |
 | **Duración**         | Variable según programación       |
 
 ## 📋 Requisitos Previos
