@@ -48,9 +48,7 @@ La organización de las carpetas es la siguiente:
 ├── 05_bases_datos/          # Scripts SQL, modelos entidad-relación
 ├── 06_pruebas/              # Pruebas unitarias, planes de prueba
 ├── 07_proyecto_final/       # Proyecto integrador del curso
-├── recursos/                # Material complementario: libros, enlaces, plantillas
-├── docs/                    # Documentación general y guías
-└── README.md                # Este archivo
+
 ```
 
 ## ⚙️ Instalación y Configuración
