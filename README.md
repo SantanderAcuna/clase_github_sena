@@ -58,8 +58,8 @@ La organización de las carpetas es la siguiente:
 Para clonar y trabajar con este repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/analisis-desarrollo-software-3336147.git
-cd analisis-desarrollo-software-3336147
+git clone https://github.com/SantanderAcuna/clase_github_sena.git
+cd clase_github_sena
 ```
 
 Dependiendo del proyecto específico, es posible que necesites instalar:
